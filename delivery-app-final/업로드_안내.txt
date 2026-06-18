@@ -1,0 +1,7 @@
+1. 이 zip 파일을 압축 해제합니다.
+2. GitHub 저장소로 이동합니다.
+3. Add file 또는 + 버튼을 누르고 Upload files를 선택합니다.
+4. 압축 해제된 delivery-app-final 폴더 안의 모든 파일과 폴더를 업로드합니다.
+5. Commit changes를 누릅니다.
+6. Vercel에서 이 GitHub 저장소를 Import합니다.
+7. Vercel 환경변수에 DATABASE_URL을 추가합니다.
